@@ -1,0 +1,8 @@
+PV-Module
+=========
+
+PV Module sind Luxor ECO LINE M108 BIFACIAL | BIS ZU 415WP (bei mir 400W,
+2 Stück) aktuell parallel geschaltet, ich probiere auch die Reihenschaltung.
+Parallel um die Verluste bei Abschattungen zu minimieren.
+
+https://www.luxor.solar/de/solar-module/eco-line-gg/bifacial-solarmodule.html

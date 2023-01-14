@@ -1,0 +1,16 @@
+Wechselrichter
+==============
+
+Wechselrichter ist SUN-1000-2. Ich habe die Variante, die zwischen 22V und 60V
+DC Eingangsspannung benötigt. Wichtig: als Speicher brauchst Du eine 24V Batterie,
+mit 12 Volt geht es nicht. Der Wechselrichter kann die Ausgangsleistung einstellen.
+Habe ich bei mir auf 200W eingestellt. Kann aber auch alles was er bekommt
+bis ca. 1000W auf AC umsetzen.
+
+https://de.aliexpress.com/item/32833599191.html
+
+SUN Zertifikat als PDF Datei :download:`Link <SUN_Zertifikat.pdf>`
+
+Modbus Protokoll CN als PDF Datei: :download:`Link <Modbus_RTU_Protocol_v100.pdf>`
+
+Modbus Protokoll DE als PDF Datei: :download:`Link <Modbus_RTU_Protocol_v100de.pdf>`

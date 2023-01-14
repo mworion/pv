@@ -1,0 +1,20 @@
+Auslegung Anlage
+================
+Als Referenz werden 2 kWp Module aud dem Dach mit 30 Grad Neigung herangezogen.
+Sowohl Garage als aus Haus haben einen 30 Grad Neigung:
+
+Ausrichtung der Dachflächen ist nach Süden:
+
+.. image:: image/photovoltaik_ertrag-sued.png
+    :align: center
+
+bzw. Norden:
+
+.. image:: image/photovoltaik_ertrag-nord.png
+    :align: center
+
+in Zahlenwerten, jeweils kWh:
+
+.. csv-table:: Ertragswerte kumuliert
+   :file: PV_Ertrag.csv
+   :header-rows: 2

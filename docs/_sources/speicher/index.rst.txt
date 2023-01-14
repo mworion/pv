@@ -1,0 +1,11 @@
+Speicher
+========
+
+Batterie ist eine LiFePO4 24V Batterie mit integriertem Batterie Management.
+Da gibt es beliebig viele Angebote und Varianten. Für Balkonkraftwerk reichen
+24V vollkommen. Wenn es mehr werden soll, würde ich heute gleich auf eine
+48V Batterie gehen.
+
+Shunt vor der Batterie, um die Ladezyklen zu messen. Manche Batteriepacks
+bringen sogar dafür eine Schnittstelle mit (sind aber teuer) oder haben halt
+keine.

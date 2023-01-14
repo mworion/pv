@@ -1,0 +1,17 @@
+Schaltschrank
+=============
+
+Notwendige Kleinteile:
+
+3 x DC Schalter mit 2 x 40A für PV Module Eingang vor Laderegler und als Eingang
+Wechselrichter. 1 x 60 A für die Batterie.
+1 x Blitzschutz für DC PV Eingang (die sogenannte Generatorbox)
+2 x Verteilerklemme für 24 V Positiv / Negativ Pol
+Leitungen, bei mir wegen den Sicherung auf 35 mm^2 beschränkt.
+
+RASPI mit USB-Schnittstellen Interfaces, für die Visualisierung.
+(USB auf RS-232 / Modbus für Wechselrichter, USB auf RS-485 für Laderegler, USB auf VE Bus für Shunt)
+
+Shunt Protokoll als PDF Datei: :download:`Link <BMV_7xx_HEX_Protocol.pdf>`
+
+VE Direct Protokoll als PDF Datei: :download:`Link <VE_Direct_Protocol_v3_32.pdf>`

@@ -1,0 +1,22 @@
+Photovoltaik Anlage
+===================
+
+Die Photovoltaik Planung besteht aus PV Modulen auf der Garage in Süd -
+Nord Ausrichtung, Modulen der Balkonanlage auf dem Vordach sowie Laderegler,
+Speicher und Wechselrichter.
+
+In der Planung sind Vorhalte für Wallbox, PV auf dem Hausdach sowie einer
+Wärmepumpe für Warmwasser und Heizung enthalten.
+
+
+
+.. toctree::
+    :maxdepth: 2
+
+    foerderung/index
+    auslegung/index
+    module/index
+    laderegler/index
+    speicher/index
+    wechselrichter/index
+    schaltschrank/index
